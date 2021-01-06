@@ -74,13 +74,14 @@ hr {
     padding-bottom: 80px;
 }
 .last-child {
-    width: 30%;
+    width: 28%;
     float: left;
     padding: 10px;
     margin: 15px;
-    text-align: left;
+    text-align: center;
     background-color: #ffffff;
     border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
   
 }
 .last-child img{
